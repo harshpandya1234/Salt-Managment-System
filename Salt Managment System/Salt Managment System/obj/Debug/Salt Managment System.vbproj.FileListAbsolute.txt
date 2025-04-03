@@ -1,0 +1,24 @@
+c:\users\prp\documents\visual studio 2015\Projects\Salt Managment System\Salt Managment System\bin\Debug\Salt Managment System.exe.config
+c:\users\prp\documents\visual studio 2015\Projects\Salt Managment System\Salt Managment System\bin\Debug\Salt Managment System.exe
+c:\users\prp\documents\visual studio 2015\Projects\Salt Managment System\Salt Managment System\bin\Debug\Salt Managment System.pdb
+c:\users\prp\documents\visual studio 2015\Projects\Salt Managment System\Salt Managment System\bin\Debug\Salt Managment System.xml
+c:\users\prp\documents\visual studio 2015\Projects\Salt Managment System\Salt Managment System\obj\Debug\Salt_Managment_System.Form1.resources
+c:\users\prp\documents\visual studio 2015\Projects\Salt Managment System\Salt Managment System\obj\Debug\Salt_Managment_System.Resources.resources
+c:\users\prp\documents\visual studio 2015\Projects\Salt Managment System\Salt Managment System\obj\Debug\Salt_Managment_System.Product_master.resources
+c:\users\prp\documents\visual studio 2015\Projects\Salt Managment System\Salt Managment System\obj\Debug\Salt Managment System.vbproj.GenerateResource.Cache
+c:\users\prp\documents\visual studio 2015\Projects\Salt Managment System\Salt Managment System\obj\Debug\Salt Managment System.exe
+c:\users\prp\documents\visual studio 2015\Projects\Salt Managment System\Salt Managment System\obj\Debug\Salt Managment System.xml
+c:\users\prp\documents\visual studio 2015\Projects\Salt Managment System\Salt Managment System\obj\Debug\Salt Managment System.pdb
+C:\Users\PRP\Documents\Visual Studio 2015\Projects\Salt Managment System\Salt Managment System\obj\Debug\Salt_Managment_System.Login.resources
+C:\Users\PRP\Documents\Visual Studio 2015\Projects\Salt Managment System\Salt Managment System\obj\Debug\Salt_Managment_System.UserHome.resources
+C:\Users\PRP\documents\visual studio 2015\Projects\Salt Managment System\Salt Managment System\obj\Debug\Salt Managment System.vbprojResolveAssemblyReference.cache
+C:\Users\PRP\documents\visual studio 2015\Projects\Salt Managment System\Salt Managment System\obj\Debug\Salt_Managment_System.Labour_master.resources
+C:\Users\PRP\documents\visual studio 2015\Projects\Salt Managment System\Salt Managment System\obj\Debug\Salt_Managment_System.Ledger_master.resources
+D:\Salt Managment System\Salt Managment System\obj\Debug\Salt Managment System.vbproj.AssemblyReference.cache
+D:\Salt Managment System\Salt Managment System\obj\Debug\Salt_Managment_System.Form1.resources
+D:\Salt Managment System\Salt Managment System\obj\Debug\Salt_Managment_System.Labour_master.resources
+D:\Salt Managment System\Salt Managment System\obj\Debug\Salt_Managment_System.Ledger_master.resources
+D:\Salt Managment System\Salt Managment System\obj\Debug\Salt_Managment_System.Login.resources
+D:\Salt Managment System\Salt Managment System\obj\Debug\Salt_Managment_System.Product_master.resources
+D:\Salt Managment System\Salt Managment System\obj\Debug\Salt_Managment_System.UserHome.resources
+D:\Salt Managment System\Salt Managment System\obj\Debug\Salt Managment System.vbproj.GenerateResource.cache
